@@ -26,4 +26,8 @@ build/Release
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 node_modules
 
+# Mac OSX system files
 .DS_Store
+
+# Local Development that contains API Keys
+run.sh
